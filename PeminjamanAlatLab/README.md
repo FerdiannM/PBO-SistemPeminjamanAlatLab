@@ -2,6 +2,9 @@
 
 Sistem ini adalah aplikasi Java berbasis GUI (Swing) untuk mengelola peminjaman alat laboratorium. Aplikasi ini memiliki fitur untuk **Admin** dan **Mahasiswa**, termasuk peminjaman, pengembalian, laporan, serta manajemen alat dan mahasiswa.
 
+# E-book
+https://ebook.webiot.id/ebooks/sistem-peminjaman-alat-laboratorium-berbasis-java-pbo-menggunakan-mysql
+
 ---
 
 ## Fitur Utama
@@ -43,6 +46,3 @@ src/
 private static final String URL = "jdbc:mysql://localhost:3306/lab_db";
 private static final String USER = "root";       // ganti sesuai username MySQL
 private static final String PASSWORD = "password"; // ganti sesuai password MySQL
-
-## E-book
-https://ebook.webiot.id/ebooks/sistem-peminjaman-alat-laboratorium-berbasis-java-pbo-menggunakan-mysql
